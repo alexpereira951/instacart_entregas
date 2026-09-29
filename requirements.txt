@@ -1,0 +1,2 @@
+Pandas==2.3.3
+Matplotlib==3.10.8
