@@ -126,11 +126,9 @@ instacart_entregas/
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/instacart_entregas
 cd instacart_entregas
 ```
-
-> Substitua `<URL_DO_REPOSITORIO>` pela URL do seu repositório.
 
 ### 2. Crie e ative um ambiente virtual
 
