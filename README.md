@@ -126,11 +126,9 @@ instacart_entregas/
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/instacart_entregas
 cd instacart_entregas
 ```
-
-> Substitua `<URL_DO_REPOSITORIO>` pela URL do seu repositório.
 
 ### 2. Crie e ative um ambiente virtual
 
@@ -226,6 +224,18 @@ A análise também calculou a proporção de recompra por produto e por cliente.
 Também foram identificados os **20 produtos mais frequentemente adicionados como primeiro item do carrinho**, permitindo observar quais produtos tendem a iniciar uma jornada de compra.
 
 ---
+
+## ⚠️ Limitações
+
+O projeto apresenta algumas limitações que devem ser consideradas na interpretação dos resultados:
+
+* **Dados históricos e amostrais:** os resultados refletem exclusivamente o conjunto de dados disponibilizado, não representando necessariamente o comportamento atual de todos os clientes da plataforma.
+* **Valores ausentes:** alguns registros apresentam informações ausentes, especialmente em variáveis relacionadas aos pedidos e aos produtos, o que pode limitar determinadas análises.
+* **Ausência de modelagem preditiva:** o projeto está concentrado em **análise exploratória e descritiva**, não sendo desenvolvido um modelo para previsão de compras, recompra ou comportamento futuro dos clientes.
+* **Análise sem causalidade:** os padrões identificados mostram associações e distribuições nos dados, mas não permitem concluir que determinado fator seja a causa direta de um comportamento de compra.
+
+Os resultados devem, portanto, ser interpretados dentro do contexto do conjunto de dados, dos tratamentos realizados e do escopo exploratório definido para o projeto.
+
 
 ## 💡 Insights de Negócio
 
